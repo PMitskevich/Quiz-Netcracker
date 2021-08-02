@@ -1,0 +1,5 @@
+amazonProperties:
+  endpointUrl: https://s3.eu-north-1.amazonaws.com
+  accessKey: AKIAVI6XGT6S5ZQBO267
+  secretKey: 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
+  bucketName: quiz-netcracker-basket
